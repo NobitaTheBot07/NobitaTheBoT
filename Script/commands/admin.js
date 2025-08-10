@@ -22,7 +22,7 @@ module.exports.run = async function({ api, event }) {
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃      🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟      
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👤 𝐍𝐚𝐦𝐞      : S H Rohan khan
+┃ 👤 𝐍𝐚𝐦𝐞      : S H MANAF SIKDER
 ┃ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫    : 𝐌𝐚𝐥𝐞
 ┃ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧  : Single
 ┃ 🎂 𝐀𝐠𝐞       : 22
@@ -30,7 +30,7 @@ module.exports.run = async function({ api, event }) {
 ┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : Porat vallage nah
 ┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Chittagong, 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : Prime soul7
+┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : Prime soul07
 ┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : Nai
 ┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/profile.php?id=100086680581286
 ┣━━━━━━━━━━━━━━━━━━━━━┫
